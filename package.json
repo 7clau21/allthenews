@@ -1,0 +1,22 @@
+{
+  "name": "allthenews",
+  "version": "1.0.0",
+  "description": "web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7clau21/allthenews.git"
+  },
+  "keywords": [
+    "scarping"
+  ],
+  "author": "Claudia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7clau21/allthenews/issues"
+  },
+  "homepage": "https://github.com/7clau21/allthenews#readme"
+}
